@@ -39,7 +39,7 @@ The following are the widely used R and Python libraries.
 * [Frank Harrell's blog](https://www.fharrell.com/) - emphasizes the importance of statistical thinking and posts about regression modeling strategies, clinical trials, drug evaluation, medical diagnosis, and decision making.
 * [Bayesian survival analysis for "Game of Thrones"](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html)
 
-# People to Follow
+# People to Follow on Twitter
 * [Frank Harrell](https://twitter.com/f2harrell?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 * [Richard Riley](https://twitter.com/richard_d_riley?lang=en)
 * [Karandeep Singh](https://twitter.com/kdpsinghlab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
