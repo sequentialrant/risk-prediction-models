@@ -6,6 +6,7 @@ This repo lists resources for understanding and building risk prediction models 
 * [Regression Modeling Strategies: With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis](https://www.amazon.com/Regression-Modeling-Strategies-Applications-Statistics/dp/3319194240/ref=sr_1_1?keywords=regression+modeling+strategies&qid=1659000046&s=books&sprefix=regression+modeling+s%2Cstripbooks%2C329&sr=1-1) - read this book after having a conceptual understanding
 * [Medical Risk Prediction Models](https://www.amazon.com/Medical-Risk-Prediction-Models-Biostatistics/dp/113838447X/ref=sr_1_2?crid=BJJIAHB3SDOD&keywords=medical+risk+prediction+models+with+ties+to+machine+learning&qid=1659005057&s=books&sprefix=medical+risk+prediction+models+with+ties+to+machine+learning%2Cstripbooks-intl-ship%2C313&sr=1-2) - this book will teach you to ask the right questions, and prepare you for the analysis of prognostic models
 * [An Introduction to Statistical Learning](https://www.statlearning.com/) - Chapter 11 deals with survival analysis
+* [Clinical Prediction Models: A Practical Approach to Development, Validation, and Updating](https://www.amazon.com/Clinical-Prediction-Models-Development-Validation/dp/3030163989/ref=sr_1_1?crid=P6XXMX99W7VQ&keywords=clinical+prediction&qid=1663477507&sprefix=clinical+predictio%2Caps%2C656&sr=8-1)
 
 # R and Python Packages
 The following are the widely used R and Python libraries.
