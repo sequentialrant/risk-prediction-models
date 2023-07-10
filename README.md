@@ -33,6 +33,7 @@ The following are the widely used R and Python libraries.
 * [Classifier technology and the illusion of progress](https://projecteuclid.org/journals/statistical-science/volume-21/issue-1/Classifier-Technology-and-the-Illusion-of-Progress/10.1214/088342306000000060.full)
 * [Random Survival Forests](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Random-survival-forests/10.1214/08-AOAS169.full) - Random forest method applied to time-to-event data. Provides a detailed description of the algorithm
 * [WTTE-RNN: Weibull Time To Event Recurrent Neural Network](https://publications.lib.chalmers.se/records/fulltext/253611/253611.pdf) - this paper introduces Recurrent Neural Network (RNN) technique to model time-to-event outcomes in the case of discrete or continuous censored data. There is a Keras implementation of this technique [here](https://github.com/daynebatten/keras-wtte-rnn)
+* [Machine learning for ECG diagnosis and risk stratification of occlusion myocardial infarction](https://www.nature.com/articles/s41591-023-02396-3)
 
 # Blog
 * [Survival analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html) - a good introductory tutorial on survival analysis using R
